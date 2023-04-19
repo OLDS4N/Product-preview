@@ -1,0 +1,37 @@
+@media (min-width: 600px){
+    
+    .container {
+        width: 600px;
+        height: 450px;
+        display: flex;
+    }
+
+    .sec-one {
+        width: 50%;
+        height: 100%;
+        background-image: url(../img/perfume-desktop.jpg);
+    }
+
+    .sec-two {
+        width: 50%;
+        height: 100%;
+        padding: 30px;
+    }
+
+    .titulo {
+        margin-bottom: 25px;
+    }
+
+    .sub-titulo {
+        line-height: 30px;
+        margin-bottom: 30px;
+    }
+
+    .descrição {
+        margin-bottom: 30px;
+    }
+
+    .valores {
+        margin-bottom: 30px;
+    }
+}
